@@ -2,7 +2,7 @@
 
 # Mobile
 
-> O projeto mobile foi desenvolvido em Android.
+> O projeto mobile foi desenvolvido em Android, utilizando o emulador Genymotion.
 
 <p>Após download do repositório, acesse a pasta mobile/gympointapp, dentro dela no caminho src/services no arquivo api.js
 é configurado o endereço para onde serão feitas todas as requisições, caso não tenha mudado nada no backend, deixe como está.
